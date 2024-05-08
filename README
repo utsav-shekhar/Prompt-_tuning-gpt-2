@@ -1,0 +1,19 @@
+Following libraries are needed to be installed using pip install:
+transformers
+numpy
+pandas
+torch
+tqdm
+sklearn
+datasets
+json
+random
+accelerate
+The datasets should be present in content dir, in the same dir as the code
+The original link for notebook : https://colab.research.google.com/drive/10DBYabAlphxHo4t7tVoQ0be8aW-eSTZW
+
+
+Drive link for models :- 
+
+
+https://iiitaphyd-my.sharepoint.com/:f:/g/personal/utsav_shekhar_research_iiit_ac_in/Ep5B9LWhakZNnXDWmRELy-cB_K4YwUeeDI3kMmuZJuYj9Q?e=GV1oTm
